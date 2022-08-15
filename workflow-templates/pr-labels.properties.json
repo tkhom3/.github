@@ -1,4 +1,7 @@
 {
   "name": "Check Pull Request for Release Tag",
-  "description": "Check pull request for tag"
+  "description": "Check pull request for tag",
+  "categories": [
+    "Automation"
+  ],
 }
