@@ -1,0 +1,10 @@
+{
+  "name": "Build Docker Image on PR",
+  "description": "Build docker image on pull request",
+  "categories": [
+      "Dockerfile"
+  ],
+  "filePatterns": [
+      "^Dockerfile"
+  ]
+}
