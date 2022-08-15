@@ -2,9 +2,10 @@
   "name": "Build and Deploy Docker Image",
   "description": "Build and deploy docker image to Docker Hub tkhom3.",
   "categories": [
-      "Dockerfile"
+    "Deployment",
+    "Dockerfile"
   ],
   "filePatterns": [
-      "^Dockerfile"
+    "^Dockerfile"
   ]
 }
