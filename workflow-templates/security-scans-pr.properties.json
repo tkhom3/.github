@@ -2,8 +2,9 @@
   "name": "Security Scans",
   "description": "Scan Docker image and repo for vulnerabilities and misconfigurations.",
   "categories": [
-    "Security",
-    "Dockerfile"
+    "Deployment"
+    "Dockerfile",
+    "Security"
   ],
   "filePatterns": [
       "^Dockerfile"
