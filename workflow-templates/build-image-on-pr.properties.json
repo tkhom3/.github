@@ -2,7 +2,8 @@
   "name": "Build Docker Image on PR",
   "description": "Build docker image on pull request",
   "categories": [
-      "Dockerfile"
+    "Deployment",
+    "Dockerfile"
   ],
   "filePatterns": [
       "^Dockerfile"
